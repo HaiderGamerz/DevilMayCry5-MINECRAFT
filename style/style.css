@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+.bdrk-h1{
+    font-family: 'Roboto', sans-serif;
+    padding: 100px;
+    text-align: center;
+    background-color: goldenrod;
+    color: indianred;
+}
+.bdrk-p{
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    text-align: center;
+    background-color: goldenrod;
+    color: indianred;
+    font-weight: bolder;
+    font-size: larger;
+}
+.bdy-bdrk{
+    background-color: goldenrod;
+}
+footer{
+    padding: 0;
+}
+.contact{
+    padding: 150px;
+}
+.navbar{
+    padding:0;
+}
+.sup-left{
+    align-items: left;
+}
+.card{
+    margin: 150px;
+}
+.colors{
+    color: white;
+}
